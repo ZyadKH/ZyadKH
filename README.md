@@ -2,7 +2,7 @@
 
 **`Digital Craftsman (Developer/Creator)`**
 
-I'm an indie full-stack developer and content creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. All video content is built the same way, from ideation and planning, all the way to finalizing the content with artistic touches. I publish that content on my YouTube channel "" to more than 400k subscribers.
+👋 Hey there! I'm a first year engineering student with a passion for web and application development. I've just started my journey into the world of programming, but I'm eager to learn and grow. My GitHub profile showcases some of my projects and contributions, where I aim to share my knowledge and collaborate with other developers.
 
 ---
 
